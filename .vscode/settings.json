@@ -1,0 +1,7 @@
+{
+    "prettier.prettierPath": "./node_modules/prettier/index.cjs",
+    "debug.javascript.defaultRuntimeExecutable": {
+        "pwa-chrome": "",
+        "pwa-node": "/Users/steven/.nvm/versions/node/v20.12.1/bin/node"
+    }
+}

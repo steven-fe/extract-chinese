@@ -1,0 +1,11 @@
+{
+  "只能输入整数！": "Only integers can be entered!",
+  "请配置 type 属性！！": "Please configure the type attribute!!",
+  "选择日期时间": "Select Date and Time",
+  "请上传图片": "Please upload a picture",
+  "请输入": "Please enter",
+  "addItem": "Add {item}",
+  "editItem": "Edit {item}",
+  "viewItem": "View {item}",
+  "imageMaxLimit": "Maximum image limit {volume}"
+}

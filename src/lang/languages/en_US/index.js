@@ -1,0 +1,31 @@
+export default {
+  section: 'index',
+  dicts: {
+    payAmountByData: 'Today\'s Deposit Amount',
+    payNumByData: 'Today\'s Deposit Count',
+    withdrawalAmountByData: 'Today\'s Withdrawal Amount',
+    withdrawalNumByData: 'Today\'s Withdrawal Count',
+    login: 'Login',
+    today: 'Today',
+    yesterday: 'Yesterday',
+    accumulativeTotal: 'Total',
+    transaction: 'Trade',
+    topUp: 'Deposit',
+    withdrawalOfCurrency: 'Withdrawal',
+    day7: '7 Days',
+    day30: '30 Days',
+    platformData: 'Platform Deposit and Withdrawal Data',
+    withdrawalAmount: 'Withdrawal Count',
+    withdrawalMoney: 'Withdrawal Amount',
+    recharge: 'Deposit Count',
+    rechargeMoney: 'Deposit Amount',
+    loginUser: 'Login User',
+    registeredUser: 'Registered User',
+    topUpUser: 'Deposit User',
+    withdrawalUser: 'Withdrawal User',
+    spotTradingUser: 'Spot Trading User',
+    spotTradingVolume: 'Spot Trading Volume',
+    numberOfUsers: 'Number of Users',
+    countOfUsers: 'Count of Users'
+  }
+}

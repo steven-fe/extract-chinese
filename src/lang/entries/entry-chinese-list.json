@@ -1,0 +1,10 @@
+{
+  "只能输入整数！": "只能输入整数！",
+  "请配置 type 属性！！": "请配置 type 属性！！",
+  "选择日期时间": "选择日期时间",
+  "请上传图片": "请上传图片",
+  "addItem": "新增{name}",
+  "editItem": "编辑{name}",
+  "viewItem": "查看{name}",
+  "imageMaxLimit": "图片最大限制 {volume}"
+}

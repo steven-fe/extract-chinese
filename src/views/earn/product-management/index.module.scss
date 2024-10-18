@@ -1,0 +1,20 @@
+.tableWraper {
+  :global(.el-table__header th:first-child .cell) {
+    margin-top: -12px;
+    height: 34px;
+    border-bottom: 1px solid #dfe6ec;
+  }
+  
+}
+.editorBar {
+  :global(.text) {
+    min-height: auto;
+    height: 120px;
+  }
+}
+
+.intorTips {
+  position: absolute;
+  right: 192px;
+  bottom: 10px;
+}

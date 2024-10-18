@@ -1,0 +1,25 @@
+.dialogFlex {
+  display: flex;
+  padding-left: 10px;
+  span {
+    font-size: 12px;
+  }
+
+  .dialogToolTip {
+    max-width: 250px;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+    p {
+      padding: 0;
+      margin: 0;
+      font-size: 12px;
+      line-height: 18px;
+    }
+  }
+}
+.dialogItem {
+  :global(.el-form-item__error) {
+    left: 10px;
+  }
+}

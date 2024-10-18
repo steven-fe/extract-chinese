@@ -1,0 +1,23 @@
+.dividingLine {
+  position: relative;
+  height: 30px;
+
+  &::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    border: 1px dashed #ccc;
+  }
+
+  span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    display: block;
+    padding: 0 10px;
+    background: #fff;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+  }
+}

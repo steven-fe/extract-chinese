@@ -1,0 +1,31 @@
+export default {
+  section: 'index',
+  dicts: {
+    payAmountByData: '今日充值数额',
+    payNumByData: '今日充值次数',
+    withdrawalAmountByData: '今日提币数额',
+    withdrawalNumByData: '今日提币次数',
+    login: '登录',
+    today: '今日',
+    yesterday: '昨日',
+    accumulativeTotal: '累计',
+    transaction: '交易',
+    topUp: '充值',
+    withdrawalOfCurrency: '提币',
+    day7: '7天',
+    day30: '30天',
+    platformData: '平台充提币数据',
+    withdrawalAmount: '提币数',
+    withdrawalMoney: '提币额',
+    recharge: '充值数',
+    rechargeMoney: '充值额',
+    loginUser: '登录用户',
+    registeredUser: '注册用户',
+    topUpUser: '充值用户',
+    withdrawalUser: '提币用户',
+    spotTradingUser: '现货交易用户',
+    spotTradingVolume: '现货交易额',
+    numberOfUsers: '用户数量',
+    countOfUsers: '统计数量'
+  }
+}

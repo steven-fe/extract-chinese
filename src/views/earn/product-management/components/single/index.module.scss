@@ -1,0 +1,23 @@
+:global(.product_tabHide .el-tabs__header) {
+  display: none;
+}
+.iForm {
+  :global(.el-form-item__label) {
+    display: flex;
+    justify-content: end;
+  }
+}
+.repeatTooltip {
+  max-width: 200px;
+}
+.productDialog {
+  :global(.el-tabs__nav-wrap::after) {
+    background-color: transparent;
+  }
+}
+.intorTips {
+  position: absolute;
+  right: 192px;
+  bottom: 23px;
+}
+

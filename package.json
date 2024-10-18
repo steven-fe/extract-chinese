@@ -1,0 +1,39 @@
+{
+  "name": "@coinstore/handle-languages",
+  "version": "0.0.1-alpha.8",
+  "description": "处理多语言",
+  "type": "module",
+  "author": "Steven",
+  "license": "MIT",
+  "bin": {
+    "cs-handle-languages": "bin/index.js"
+  },
+  "scripts": {
+    "build": "rollup --config"
+  },
+  "files": [
+    "bin"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "keywords": [
+    "handle languages"
+  ],
+  "dependencies": {
+    "@typescript-eslint/parser": "^7.5.0",
+    "chalk": "^4.1.2",
+    "eslint": "^8.57.0",
+    "espree": "^10.0.1",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.8",
+    "prettier": "^3.2.5",
+    "rollup": "^2.79.1",
+    "rollup-plugin-terser": "^7.0.2",
+    "vue-eslint-parser": "^9.4.2"
+  },
+  "engines": {
+    "node": ">=21.1.0"
+  }
+}
